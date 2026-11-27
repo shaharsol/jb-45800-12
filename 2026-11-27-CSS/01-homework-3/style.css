@@ -1,0 +1,31 @@
+body {
+    direction: rtl;
+    text-align: center;
+    background-image: url('https://online.oz-ceramica.co.il/wp-content/uploads/2024/09/251103-600x600.jpg');
+}
+
+.header-text {
+    color: blueviolet;
+
+}
+
+.welcome-text {
+    font-size: x-large;
+}
+
+.login-table {
+    border: 1px solid black;
+}
+
+input[type=password], input[type=text] {
+    background-color: yellow;
+}
+
+#img-container > img {
+    width: 128px;
+}
+
+form {
+    margin-bottom: 100px;
+    margin-top: 40px;
+}
